@@ -4,6 +4,10 @@
 -- It will set up all tables, policies, and seed data
 -- ============================================================
 
+-- This File contains all the code for setting up the FoodHub application in Supabase. It includes:
+-- 1. Table creation for profiles, food_items, orders, and order_items
+-- 2. Row Level Security (RLS) policies
+-- 3. Seed data
 
 -- ============================================================
 -- STEP 1: CREATE TABLES (if they don't exist)
